@@ -3,7 +3,7 @@ Script para conexión a la red privada virtual (VPN) de la UJA desde Linux.
 
 ## Requisitos
 
-Ninguno, si Zenit no está instalado en el sistema, podemos ejecutarlo desde un terminal.
+Ninguno, si Zenity no está instalado en el sistema, podemos optar por ejecutarlo desde un terminal.
 
 ## Instalación
 
